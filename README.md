@@ -3,7 +3,7 @@ markdown-auto-import-image-as-base64
 
 Typora 文档的图片自动导入markdown.md 文档中，方便SCM管理.
 
-
+````
 happy:base64image happy$ tree
 .
 ├── base64img.sh
@@ -30,3 +30,4 @@ this is -f the arg is ! 2.md
 this is -i the arg is ! image
 this is -s the arg is ! 100
 文件名=/Users/happy/work/supper-tool/supper-tool/app/base64image/examples/2.md image_path=image space_line_count=100
+````
